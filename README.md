@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Food Explorer - Elizandra Monteiro </h1>
+      <h1> Food Explorer - Elizandra Monteiro </h1>
 </p>
 
 <p align="center">
