@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="550" height="99" ![prewiew](01details.png)>
+  <img alt="Imagem Ilustrativa Light Mode" src="./public/01details.png" width="100%">
 </p>
 
 Este é o resultado do desafio final do Explorer, o Food Explorer.
@@ -22,8 +22,8 @@ ___
 ## 🎨 Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
-<img alt="Imagem Ilustrativa Light Mode" src="./public/01details.png" width="100%">
-<img alt="Imagem Ilustrativa Simulador de celular " src="./public/mobile.png" width="100%">
+<img alt="Imagem Ilustrativa Light Mode" src="./public/img02.png" width="100%">
+<img alt="Imagem Ilustrativa Simulador de celular " src="./public/mobile.png" width="40%">
 
 ___
 
