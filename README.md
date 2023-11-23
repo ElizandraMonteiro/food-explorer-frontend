@@ -23,6 +23,9 @@ ___
 A página inicial em formato desktop é vista na imagem abaixo:
 
 <img alt="Imagem Ilustrativa Light Mode" src="./public/img02.png" width="100%">
+
+E assim no formato Mobile:
+
 <img alt="Imagem Ilustrativa Simulador de celular " src="./public/mobile.png" width="40%">
 
 ___
