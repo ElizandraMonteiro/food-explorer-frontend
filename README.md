@@ -13,10 +13,59 @@ Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
 ___
 
 ## 💻 Sobre
-O Food Explorer é uma aplicação web de um restaurante. Após se cadastrar na plataforma o usuário estará apto a criar os pedidos e acompanhar o status dele. Há ainda uma customização de perfil, filtragem de favoritos, campo de busca e seção de contato com o restaurante. O carrinho é 100% funcional e o usuário pode escolher entre 2 formas de pagamento (cartão ou Pix). O Administrador terá a capacidade de criar/editar/remover os pratos da forma que desejar. Ele poderá ainda alterar o status dos pedidos, de acordo com a linha de preparo dos mesmos na cozinha. Este status será imediatamente atualizado na tela dos consumidores. Como a possibilidade de mudança de tema da página, customização do perfil do usuário(avatar, nome e senha), conta ainda com diversos efeitos visuais e o mais importante de tudo: É responsivo para a utilização em diversos tipos de dispositivos!
+Food Explorer é uma aplicação web de restaurante, cujo os recursos Principais são:
 
-Este repositório contém os dados do Frontend da minha aplicação em React.js.
+- Cadastro de Usuário:
 
+Os usuários podem se cadastrar na plataforma.
+- Criação de Pedidos:
+
+Os usuários cadastrados podem criar pedidos de comida.
+- Acompanhamento de Status:
+
+Os usuários podem acompanhar o status de seus pedidos em tempo real.
+- Customização de Perfil:
+
+Os usuários podem personalizar seus perfis, incluindo avatar, nome e senha.
+- Filtragem de Favoritos:
+
+Os usuários podem filtrar seus pratos favoritos.
+- Campo de Busca:
+
+Existe um campo de busca para facilitar a localização de pratos específicos.
+- Contato com o Restaurante:
+
+Os usuários podem entrar em contato com o restaurante por meio de uma seção dedicada.
+- Carrinho Funcional:
+
+O carrinho de compras está totalmente funcional para adicionar/remover itens.
+- Formas de Pagamento:
+
+Os usuários podem escolher entre duas formas de pagamento: cartão de crédito ou Pix.
+- Administração de Pratos:
+
+Os administradores têm a capacidade de criar, editar e remover pratos da plataforma.
+- Gerenciamento de Status de Pedidos:
+
+Os administradores podem atualizar o status dos pedidos de acordo com o processo de preparo na cozinha.
+- Atualização em Tempo Real:
+
+O status dos pedidos é imediatamente atualizado na tela dos consumidores.
+- Mudança de Tema:
+
+Os usuários podem personalizar o tema da página de acordo com suas preferências.
+- Efeitos Visuais:
+
+A aplicação possui diversos efeitos visuais para melhorar a experiência do usuário.
+- Responsividade:
+
+A aplicação é responsiva, funcionando bem em vários tipos de dispositivos.
+- Tecnologias Utilizadas:
+
+- Frontend desenvolvido em React.js.
+- Backend construído em Node.js.
+
+O Food Explorer oferece uma experiência completa de pedido de comida, desde o registro e customização de perfil até o acompanhamento dos pedidos em tempo real, tudo com uma interface amigável e responsiva. Além disso, os administradores têm controle total sobre os pratos e o status dos pedidos.
 ___
 
 ## 🎨 Layout
@@ -109,3 +158,5 @@ Já o Frontend foi hospedado diretamente no Netlify.
 
 ___
 ⚠️ **Importante**: Este projeto está utilizando uma hospedagem gratuita para o seu backend, portanto, pode haver atrasos no tempo de resposta do servidor. 
+
+[O resultado FINAL pode ser visto aqui](https://food-explorer-em.netlify.app/)
