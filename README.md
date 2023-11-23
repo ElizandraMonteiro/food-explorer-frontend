@@ -22,11 +22,8 @@ ___
 ## 🎨 Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
-![prewiew](01details.png)
-![prewiew](mobile.png)
-
-
-![foodexplorer vercel app_ (1)](https://user-images.githubusercontent.com/106932234/204163350-1d4c8a96-f68a-4eb0-aa8e-5343e2681749.png)
+<img alt="Imagem Ilustrativa Light Mode" src="./public/01details.png" width="100%">
+<img alt="Imagem Ilustrativa Simulador de celular " src="./public/mobile.png" width="100%">
 
 ___
 
